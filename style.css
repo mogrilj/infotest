@@ -1,0 +1,49 @@
+h2  {
+    color: blue;
+}
+
+
+.content {
+    background: url(content_wrapper.png) center top no-repeat;
+    padding: 50px 50px 0 50px;
+}
+
+
+body {
+    width: 1032px;
+    margin: 0 auto 0 auto;
+}
+
+.bild1 {
+    float: left;
+    margin-right: 40px;
+    border-radius: 20px;
+}
+
+.quelle {
+    text-align: center;
+}
+
+.quelle a {
+    font-size: 80%;
+    color: #750084;
+}
+
+tr:nth-child(odd) {
+    background: #CCCCCC;
+}
+h1{
+    color: #750084;
+    text-align: center;
+}
+body{
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+}
+img{
+    width: 400px;
+    border: solid #EE00E2 5px;
+}
+a:hover{
+    color:red;
+}
